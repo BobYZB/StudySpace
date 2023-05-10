@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.yang.simple.SimpleLoader
+#com.yang.annotation.EnableDemoSPI=com.yang.simple.SimpleLoader

@@ -17,8 +17,13 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         <spring.version>6.0.6</spring.version>
-        <lombok.version>1.18.12</lombok.version>
-        <slf4j.version>1.7.36</slf4j.version>
+        <lombok.version>1.18.26</lombok.version>
+        <slf4j.version>2.0.5</slf4j.version>
+        <junit.version>4.13.2</junit.version>
+        <spring.boot.version>2.3.12.RELEASE</spring.boot.version>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
 </project>
